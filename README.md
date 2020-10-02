@@ -1,2 +1,2 @@
-# Front-End-Web-Development
+# Client-side improvement of a web
 This is the course I am taking at Coderstrust
